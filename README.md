@@ -59,7 +59,4 @@ Le projet a été évalué et a obtenu la note suivante :
 - **Note générale (sur 20 pts)** : 17
 - **Note de test (sur 5 pts)** : 5
 - **Note de rapport (sur 5 points)** : 4
-
-La présentation est très courte même si l'essentiel est dit. Vous auriez pu parler du dictionnaire. Le graphe est très clair, et on y voit des composants. Les inclusions ne me semblent pas logiques, mais c'est à partir d'a priori sur le nom des composants. La lecture du code me dira si je me trompe. Le code du test unitaire est très bien présenté, mais le fond noir est un mauvais choix pour un rapport qui pourrait être imprimé. Les commentaires ne semblent pas à jour ("Initialisation de la pile" ???). Le test est basique, mais c'est déjà cela. Les tests sont la partie la plus faible de votre rapport. C'est dommage. Les dictionnaires comme les robots se prêtent bien aux tests. Le bilan est très bien.
-
 - **Note de code (sur 10 pts)** : 8
