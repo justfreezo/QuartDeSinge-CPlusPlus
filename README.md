@@ -28,30 +28,6 @@ Si le mot saisi n'appartient pas au dictionnaire, l'application affiche "le mot 
 
 À la fin de chaque manche, le nombre de quarts de singe de chaque joueur est affiché (par exemple, "1H : 0.25; 2R : 0; 3H : 0.75; 4R : 0"). Si aucun joueur n'a reçu quatre quarts de singe, le joueur ayant perdu la dernière manche débute la suivante. Dans le cas contraire, l'application affiche "La partie est finie".
 
-### Qui, Quoi et Quand?
-
-Le projet doit être réalisé en binôme. Les groupes de 3 ne seront pas acceptés. Évitez de faire le projet tout seul (soit vous êtes très fort et des personnes ont besoin de votre aide, soit vous avez des difficultés et il faut vous faire aider).
-
-Vous pouvez employer les structures de données vues en cours ou développer les vôtres. Cependant, l'usage des chaînes de caractères du C++ (le type string) ainsi que les conteneurs de la bibliothèque standard (vector, list, map, stack, etc.) est strictement interdit. En cas de doute, contactez-moi.
-
-Vous devez porter une attention particulière à la rédaction de votre dossier. Sa qualité est déterminante pour l'évaluation de votre travail. Votre dossier doit être un document PDF unique comprenant les éléments suivants :
-
-- Une page de garde indiquant le nom et le groupe des membres du binôme, l'objet du dossier.
-- Une table des matières de l'ensemble du dossier.
-- Une brève introduction du projet.
-- Le graphe de dépendance des fichiers sources de vos applications. Tous les composants (qu'ils soient réutilisés ou développés) de vos applications doivent figurer sur le graphe (cf. Cours 4).
-- Le code source des tests unitaires que vous aurez écrits (précisez quels tests passent et lesquels échouent).
-- Un bilan du projet (les difficultés rencontrées, ce qui est réussi, ce qui peut être amélioré).
-- En annexe, le code complet de vos sources (triez les fichiers selon un ordre logique).
-
-Nous vous rappelons que le critère principal de notation est la structuration de votre code. Votre rapport doit mettre en avant la qualité de celle-ci.
-
-Tous les éléments (constantes, types, et fonctions) déclarés au sein d'un fichier .h doivent être documentés.
-
-Vous devez déposer une archive ZIP contenant votre rapport ainsi que l'ensemble des fichiers sources de vos applications le 3 janvier 2023.
-
----
-
 ## Résultats de l'évaluation
 
 Le projet a été évalué et a obtenu la note suivante :
